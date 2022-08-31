@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechCodingAcademyPromo2022/C-RDG-121-PAR-1-2-postit-fabienne.capdevielle-stevant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechCodingAcademyPromo2022/C-RDG-121-PAR-1-2-postit-fabienne.capdevielle-stevant/issues"
+  },
+  "homepage": "https://github.com/EpitechCodingAcademyPromo2022/C-RDG-121-PAR-1-2-postit-fabienne.capdevielle-stevant#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "vue-router": "^4.0.14"
+  }
+}
